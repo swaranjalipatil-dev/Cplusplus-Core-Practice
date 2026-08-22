@@ -1,0 +1,11 @@
+  #include <iostream>
+using namespace std;
+
+int main() {
+    int side = 9;
+    
+    int perimeter = 4 * side;
+    
+    cout << "perimeter of square is: " << perimeter;
+    return 0;
+}
